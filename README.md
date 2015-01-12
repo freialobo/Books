@@ -1,6 +1,6 @@
 # Books-2015
 
-Books I am reading or have read in 2015
+Books I am reading or have read.
 
 Finished
 
